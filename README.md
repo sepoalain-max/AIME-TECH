@@ -14,7 +14,7 @@ Développer une interface utilisateur moderne et intuitive (front-end).
 Créer une base de données relationnelle sécurisée pour la gestion des clients, chauffeurs et réservations.
 Développer une API back-end pour connecter l’application et la base de données.
 Déployer le projet sur GitHub pour assurer sa traçabilité et son suivi.
-
+ 
 # Technologies utilisées) 
 ## Front-End
 HTML5 / CSS3 / JavaScript (ES6) <br>Framework : React.js (ou Vue.js selon choix) <br>
